@@ -1,0 +1,2 @@
+class TaskAlreadyAssignedSprint(Exception):
+    pass
